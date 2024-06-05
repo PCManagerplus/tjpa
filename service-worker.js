@@ -4,6 +4,8 @@ const urlsToCache = [
     '/index.html',
     '/install.js',
     '/manifest.json',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png',
     // 必要な他のファイルをここに追加
 ];
 
